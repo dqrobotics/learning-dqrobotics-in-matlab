@@ -9,6 +9,6 @@ The current files are under development, and released in an "alpha" state. If yo
 ### Lessons
 The following lessons are currently available.
 1. *MATLAB Basics*: the very basics of MATLAB, including simple mathematical operations.
-2. *Quaternion Basics*: Representing and manipulating quaternions using DQRobotics MATLAB. Unit quaternions are also introduced and used to represent the rotation of rigid bodies.
-3. *Dual Quaternion Basics (Part 1)*: Represeting and manipulating dual quaternions using DQ Robotics MATLAB. Unit dual quaternions are introduced and used to represent the pose transformation of rigid bodies. 
+2. *Quaternion Basics*: Representing and manipulating quaternions using DQ Robotics MATLAB. Unit quaternions are also introduced and used to represent the rotation of rigid bodies.
+3. *Dual Quaternion Basics (Part 1)*: Representing and manipulating dual quaternions using DQ Robotics MATLAB. Unit dual quaternions are introduced and used to represent the pose transformation of rigid bodies. 
 4. *Dual Quaternion Basics (Part 2)*: Unit dual quaternions are used to represent lines and planes. Distance functions between points, lines, and planes are also introduced.
