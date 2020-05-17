@@ -39,9 +39,9 @@ classdef OneDofPlanarRobot
         
         function theta = ikm_ty(obj,ty)
             %fkm calculates the IKM for the 1-DoF planar robot using the 
-            % desired x-axis translation.
+            % desired y-axis translation.
             
-            % Return the angle to reach the desired tx
+            % Return the angle to reach the desired ty
             theta = asin(ty/obj.l1);
         end
         
