@@ -6,6 +6,9 @@ Currently, the files are in MATLAB Live Script format, meaning that the coding i
 ### Disclaimer
 The current files are under development, and released in an "alpha" state. If you find any issues, please let us know.
 
+### Acknowledgments
+Murilo Marinho would like to thank Jan Laine Buendia for her careful reading of the lessons and many suggestions for improvements.
+
 ### Lessons
 The following lessons are currently available.
 1. *MATLAB Basics*: the very basics of MATLAB, including simple mathematical operations.
