@@ -4,10 +4,10 @@ A crash course on the kinematic modeling and control of robotic manipulators usi
 
 All lessons are in MATLAB Live Script format, meaning that the coding is explained alongside with the mathematical equations that they represent. At the end of each lesson, there is a homework section to help the reader internalize the concepts introduced in the lesson.
 
-### Disclaimer
+## Disclaimer
 The current files are under development, and released in an **beta** state, meaning that some people have experienced the course but here might still be some errors. If you find any issues, please let us know.
 
-### Lessons
+## Lessons
 The following lessons are currently available.
 |Number|Title|Content|
 |---|---|---|
@@ -20,5 +20,18 @@ The following lessons are currently available.
 |7|*Robot Control Basics (Part 3)*| Understanding and handling task-space singularities with a 7-DoF planar robot.|
 |8|*Optimization-based Robot Control*| Revisiting the topic of kinematic control using mathematical optimization formulation, implement joint-space and task-space constraints using quadratic programming.|
 
-### Acknowledgments
+## References
+As a crash course, these lessons do not aim to replace a good robotics textbook. 
+
+1. For a more extensive discussion, see [1] (although they do not mention dual quaternion algebra).
+2. For the notation and content of some of the first few lessons, see [2].
+3. For the Jacobians and so on mentioned in lesson 6, see [3].
+4. For more details on the constrained control presented in lesson 8, see [4]. 
+
+- [1] Siciliano, B., Sciavicco, L., Villani, L. and Oriolo, G., 2010. Robotics: modelling, planning and control. Springer Science & Business Media.
+- [[2]](https://hal.archives-ouvertes.fr/hal-01478225/) Adorno, B.V., 2017. Robot Kinematic Modeling and Control Based on Dual Quaternion Algebra---Part I: Fundamentals.
+- [[3]](https://tel.archives-ouvertes.fr/tel-00641678/) Adorno, B.V., 2011. Two-arm manipulation: From manipulators to enhanced human-robot collaboration (Doctoral dissertation).
+- [[4]]() Marinho, M.M., Adorno, B.V., Harada, K. and Mitsuishi, M., 2019. Dynamic active constraints for surgical robots using vector-field inequalities. IEEE Transactions on Robotics, 35(5), pp.1166-1185.
+
+## Acknowledgments
 Murilo Marinho would like to thank Jan Laine Buendia for her careful reading of the lessons and many suggestions for improvements.
