@@ -1,4 +1,4 @@
-# Kinematic modeling and control of serial-link robotic manipulators: From zero to hero
+# Kinematic modeling and control of serial-link robotic manipulators using DQ Robotics: From zero to hero
 
 A crash course on the kinematic modeling and control of robotic manipulators using DQ Robotics. Start from the very basic mathematical operations available in MATLAB to constrained control of multiple manipulators with degrees-of-freedom.
 
