@@ -6,8 +6,9 @@ All lessons are in MATLAB Live Script format, meaning that the coding is explain
 
 ## How to use
 
-1. Clone the repository or [Download it as a ZIP package](https://github.com/dqrobotics/learning-dqrobotics-in-matlab/archive/refs/heads/master.zip).
-2. Open each Lesson in MATLAB and follow through the live script.
+1. Install the latest version of the [DQRobotics MATLAB Toolbox](https://github.com/dqrobotics/matlab/releases/latest).
+2. Clone the repository or [Download it as a ZIP package](https://github.com/dqrobotics/learning-dqrobotics-in-matlab/archive/refs/heads/master.zip).
+3. Open each Lesson in MATLAB and follow through the live script.
 
 ## Lessons
 The following lessons are currently available.
