@@ -1,11 +1,13 @@
 # Kinematic modeling and control of serial-link robotic manipulators using DQ Robotics: From zero to hero
 
-A crash course on the kinematic modeling and control of robotic manipulators using DQ Robotics. Start from the very basic mathematical operations available in MATLAB to constrained control of multiple manipulators with degrees-of-freedom.
+A crash course on the kinematic modeling and control of robotic manipulators. Start from the very basic mathematical operations available in MATLAB to constrained kinematic control of manipulators with multiple degrees-of-freedom.
 
-All lessons are in MATLAB Live Script format, meaning that the coding is explained alongside with the mathematical equations that they represent. At the end of each lesson, there is a homework section to help the reader internalize the concepts introduced in the lesson.
+All lessons are in MATLAB Live Script format, meaning that the coding is explained alongside the mathematical equations that they represent. At the end of each lesson, there is a homework section to help the reader internalize the concepts introduced in the lesson.
 
-## Disclaimer
-The current files are under development, and released in an **beta** state, meaning that some people have experienced the course but here might still be some errors. If you find any issues, please let us know.
+## How to use
+
+1. Clone the repository or [Download it as a ZIP package](https://github.com/dqrobotics/learning-dqrobotics-in-matlab/archive/refs/heads/master.zip).
+2. Open each Lesson in MATLAB and follow through the live script.
 
 ## Lessons
 The following lessons are currently available.
@@ -35,3 +37,6 @@ As a crash course, these lessons do not aim to replace a good robotics textbook.
 
 ## Acknowledgments
 Murilo Marinho would like to thank Jan Laine Buendia for her careful reading of the lessons and many suggestions for improvements.
+
+## Comments/Suggestions...
+A considerable number of people have successfully taken this course, but here might still be some errors. If you have any issues, please let us know.
