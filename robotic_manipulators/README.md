@@ -39,4 +39,4 @@ As a crash course, these lessons do not aim to replace a good robotics textbook.
 Murilo Marinho would like to thank Jan Laine Buendia for her careful reading of the lessons and many suggestions for improvements.
 
 ## Comments/Suggestions...
-A considerable number of people have successfully taken this course, but here might still be some errors. If you have any issues, please let us know.
+A considerable number of people have successfully taken this course, but there might still be some errors. If you have any issues, please let us know.
