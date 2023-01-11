@@ -1,14 +1,16 @@
 # Kinematic modeling and control of serial-link robotic manipulators using DQ Robotics: From zero to hero
 
-A crash course on the kinematic modeling and control of robotic manipulators. Start from the very basic mathematical operations available in MATLAB to constrained kinematic control of manipulators with multiple degrees-of-freedom.
+A crash course on the kinematic modeling and control of robotic manipulators. 
+
+Start from the very basic mathematical operations available in MATLAB and go all the way to constrained kinematic control of manipulators with multiple degrees-of-freedom.
 
 All lessons are in MATLAB Live Script format, meaning that the coding is explained alongside the mathematical equations that they represent. At the end of each lesson, there is a homework section to help the reader internalize the concepts introduced in the lesson.
 
 ## How to use
 
-1. Install the latest version of the [DQRobotics MATLAB Toolbox](https://github.com/dqrobotics/matlab/releases/latest).
-2. Clone the repository or [Download it as a ZIP package](https://github.com/dqrobotics/learning-dqrobotics-in-matlab/archive/refs/heads/master.zip).
-3. Open each Lesson in MATLAB and follow through the live script.
+1. Install the latest version of the [DQ Robotics MATLAB Toolbox](https://github.com/dqrobotics/matlab/releases/latest).
+2. Clone this repository or [Download it as a ZIP package](https://github.com/dqrobotics/learning-dqrobotics-in-matlab/archive/refs/heads/master.zip).
+3. Open each lesson in MATLAB and follow through the live script.
 
 ## Lessons
 The following lessons are currently available.
