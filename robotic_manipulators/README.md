@@ -39,7 +39,9 @@ As a crash course, these lessons do not aim to replace a good robotics textbook.
 - [[4]](https://arxiv.org/pdf/1910.11612) Marinho, M.M., Adorno, B.V., Harada, K. and Mitsuishi, M., 2019. Dynamic active constraints for surgical robots using vector-field inequalities. IEEE Transactions on Robotics, 35(5), pp.1166-1185.
 
 ## Acknowledgments
-Murilo Marinho would like to thank Jan Laine Buendia for her careful reading of the lessons and many suggestions for improvements.
+Murilo Marinho would like to thank 
+- Jan Laine Buendia for her careful reading of the lessons and many suggestions for improvements.
+- Camila Andrea Quiroz Omaña for spotting a typo in lesson 2.
 
 ## Comments/Suggestions...
 A considerable number of people have successfully taken this course, but there might still be some errors. If you have any issues, please let us know.
