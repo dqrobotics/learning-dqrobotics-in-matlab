@@ -26,7 +26,7 @@ The following lessons are currently available.
 |4|*Dynamic World*|How to interact with robots on CoppeliaSim in dynamic scenes.|
 
 ## References
-As a crash course on CoppeliaSim interface, these lessons assume basic knowledge of dual quaternion algebra and the use of DQ Robotics and CoppeliaSim.
+As a crash course on CoppeliaSim interface, these lessons assume basic knowledge of dual quaternion algebra and on the use of DQ Robotics and CoppeliaSim.
 
 1. For an introduction on dual quaternion algebra to robotics, see [1].
 2. For basic lessons on kinematic modeling and control using DQ Robotics, see [2].
