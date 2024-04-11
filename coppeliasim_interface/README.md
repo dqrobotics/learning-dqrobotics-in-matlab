@@ -30,11 +30,11 @@ As a crash course on CoppeliaSim interface, these lessons assume basic knowledge
 
 1. For an introduction on dual quaternion algebra to robotics, see [1].
 2. For basic lessons on kinematic modeling and control using DQ Robotics, see [2].
-3. For general CoppeliaSim tutorial, see [3].
+3. For general CoppeliaSim tutorials, see [3].
 
 - [[1]](https://hal.archives-ouvertes.fr/hal-01478225/) Adorno, B.V., 2017. Robot Kinematic Modeling and Control Based on Dual Quaternion Algebra---Part I: Fundamentals.
 - [[2]](https://github.com/ffasilva/learning-dqrobotics-in-matlab/tree/coppeliasim-interface/robotic_manipulators) Kinematic modeling and control of serial-link robotic manipulators using DQ Robotics: From zero to hero.
-- [[3]](https://manual.coppeliarobotics.com/en/tutorials.htm) CoppeliaSim tutorial.
+- [[3]](https://manual.coppeliarobotics.com/en/tutorials.htm) CoppeliaSim tutorials.
 
 ## Comments/Suggestions...
 If you have any issues, please let us know.
