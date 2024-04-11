@@ -12,8 +12,9 @@ All lessons are in MATLAB Live Script format, meaning that the coding is explain
    * (Windows) Double click the downloaded file. Follow the instructions.
    * (Linux etc) Browse to the toolbox file *within* MATLAB. Right click the toolbox file *within* MATLAB and choose *install*. Follow the instructions.
 4. Clone this repository or [Download it as a ZIP package](https://github.com/dqrobotics/learning-dqrobotics-in-matlab/archive/refs/heads/master.zip).
-5. Download the CoppeliaSim scenes static_world.ttt and dynamic_world.ttt which we will use in the lessons.
-6. Open each lesson in MATLAB and follow through the live script.
+5. Install [CoppeliaSim](https://www.coppeliarobotics.com/).
+6. Download the CoppeliaSim scenes static_world.ttt and dynamic_world.ttt which we will use in the lessons.
+7. Open each lesson in MATLAB and follow through the live script.
 
 ## Lessons
 The following lessons are currently available.
