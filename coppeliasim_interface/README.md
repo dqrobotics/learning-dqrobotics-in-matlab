@@ -16,6 +16,7 @@ All lessons are in MATLAB Live Script format, meaning that the coding is explain
 7. Open each lesson in MATLAB and follow through the live script.
 
 ## Lessons
+
 The following lessons are currently available.
 |Number|Title|Content|
 |---|---|---|
@@ -25,6 +26,7 @@ The following lessons are currently available.
 |4|*Dynamic World*|How to interact with robots on CoppeliaSim in dynamic scenes.|
 
 ## References
+
 As a crash course on CoppeliaSim interface, these lessons assume basic knowledge of dual quaternion algebra and on the use of DQ Robotics and CoppeliaSim.
 
 1. For an introduction on dual quaternion algebra to robotics, see [1].
@@ -35,5 +37,10 @@ As a crash course on CoppeliaSim interface, these lessons assume basic knowledge
 - [[2]](https://github.com/ffasilva/learning-dqrobotics-in-matlab/tree/coppeliasim-interface/robotic_manipulators) Kinematic modeling and control of serial-link robotic manipulators using DQ Robotics: From zero to hero.
 - [[3]](https://manual.coppeliarobotics.com/en/tutorials.htm) CoppeliaSim tutorials.
 
+## Acknowledgments
+
+Frederico Fernandes Afonso Silva would like to thank Ana Christina Almada Campos for volunteering ( :stuck_out_tongue_winking_eye: ) to review the first version of these lessons.
+
 ## Comments/Suggestions...
+
 If you have any issues, please let us know.
